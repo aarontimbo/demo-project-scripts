@@ -1,0 +1,29 @@
+{
+    "benefitInternalCode": "MEDICAL",
+    "plans": [
+        {
+	        "tierOptions": [
+                {
+                    "employerCostPayPeriod": 0,
+                    "employerCostYear": 0,
+                    "tierOptionInternalCode": "WAIVE"
+                },
+                {
+                    "employerCostPayPeriod": 200,
+                    "employerCostYear": 4800,
+                    "tierOptionInternalCode": "EEONLY"
+                },
+                {
+                    "employerCostPayPeriod": 300,
+                    "employerCostYear": 7200,
+                    "tierOptionInternalCode": "EESPOUSE"
+                },
+	            {
+	                "employerCostPayPeriod": 463.47,
+	                "employerCostYear": 11123.00,
+	                "tierOptionInternalCode": "EEFAMILY"
+	            }
+    	    ]
+        }
+    ]
+}
